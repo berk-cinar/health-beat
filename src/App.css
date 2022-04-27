@@ -1,0 +1,45 @@
+.first {
+  background-color: white;
+}
+
+.third {
+  background-color: white;
+}
+
+.row {
+  height:90vh;
+  width: 100%;
+}
+
+.health-image {
+  width: 80%;
+}
+
+
+
+.inputbars {
+  width: 40vh;
+  padding-left: 50px;
+  margin-top: 30px;
+}
+
+.buttonBmi {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  align-items:center;
+  justify-content: center;
+  
+}
+
+.card {
+  borderline: 2vh;
+  border-radius: 3vh;
+  padding: 3px;
+
+}
+
+.input1 {
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
